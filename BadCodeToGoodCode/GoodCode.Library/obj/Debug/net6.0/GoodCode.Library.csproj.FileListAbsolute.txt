@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\bin\Debug\net6.0\GoodCode.Library.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\bin\Debug\net6.0\GoodCode.Library.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\bin\Debug\net6.0\GoodCode.Library.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\GoodCode.Library.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\GoodCode.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\GoodCode.Library.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\GoodCode.Library.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\GoodCode.Library.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\GoodCode.Library.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\refint\GoodCode.Library.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\GoodCode.Library.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\Clean Code\BadCodeToGoodCode\GoodCode.Library\obj\Debug\net6.0\ref\GoodCode.Library.dll

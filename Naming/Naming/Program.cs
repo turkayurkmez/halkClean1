@@ -48,14 +48,21 @@ List<int[]> cells = new List<int[]>();
 List<int[]> getFlaggedCellsOnGameBoard()
 {
     List<int[]> flaggedCells = new List<int[]>();
-    foreach (var item in flaggedCells)
+    foreach (var cell in cells)
     {
-        if (item[0] == 4)
+        if (cell[0] == Flags.FlaggedCell)
         {
-            flaggedCells.Add(item);
+            flaggedCells.Add(cell);
         }
     }
 
     return flaggedCells;
+}
+
+public class Flags
+{
+    public const int EmptyCell = 0;
+    public const int FlaggedCell = 4;
+
 }
 
